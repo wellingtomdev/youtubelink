@@ -1,0 +1,13 @@
+{
+  "name": "youtubelinks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js",
+    "watch": "nodemon index.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
